@@ -1,0 +1,3 @@
+rootProject.name = 'cuhacking2020'
+
+include 'cuhacking2020-jvm', 'cuhacking2020-js'

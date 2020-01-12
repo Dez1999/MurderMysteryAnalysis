@@ -1,0 +1,17 @@
+{
+  "name": "cuhacking-2020",
+  "version": "0.1.0",
+  "description": "Visualises positions of people within a hotel leading up to a murder",
+  "main": "Server/server.js",
+  "scripts": {
+    "start": "node ./Server/server.js"
+  },
+  "author": "Stephen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.4.1",
+    "mongoose": "^5.8.7",
+    "path": "^0.12.7"
+  }
+}
